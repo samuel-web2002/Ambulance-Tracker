@@ -24,15 +24,6 @@ Check out the working of my project [here](https://youtu.be/KkqGRHMl9Sk).
 
 Check out the deployed web app [here](https://react-amb-driver.herokuapp.com/ ).
 
-## Upcoming Features
-Integrate with UHS.
-
-## Fun-Fact
-This project has got selected for `Google Startup Bootcamp`.
-
-❤❤
-
-Developed a Node.js web application that bridges communication gaps between ambulance drivers and hospital management during emergencies.
 
 Real-time tracking of ambulance locations are displayed on hospital boards using Socket.io and Geo-location API that revolutionizes emergency response effectiveness.
 
