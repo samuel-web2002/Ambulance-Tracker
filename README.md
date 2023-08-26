@@ -19,11 +19,6 @@ To initialize the project follow the below steps:-
 
 Run the project => `npm start`
 
-## Links
-Check out the working of my project [here](https://youtu.be/KkqGRHMl9Sk).
-
-Check out the deployed web app [here](https://react-amb-driver.herokuapp.com/ ).
-
 
 Real-time tracking of ambulance locations are displayed on hospital boards using Socket.io and Geo-location API that revolutionizes emergency response effectiveness.
 
